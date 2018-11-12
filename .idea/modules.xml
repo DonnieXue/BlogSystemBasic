@@ -9,9 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/blogSystemCommon/blogSystemCommon.iml" filepath="$PROJECT_DIR$/blogSystemCommon/blogSystemCommon.iml" />
       <module fileurl="file://$PROJECT_DIR$/blogSystemConfig/blogSystemConfig.iml" filepath="$PROJECT_DIR$/blogSystemConfig/blogSystemConfig.iml" />
       <module fileurl="file://$PROJECT_DIR$/blogSystemGateWay/blogSystemGateWay.iml" filepath="$PROJECT_DIR$/blogSystemGateWay/blogSystemGateWay.iml" />
-      <module fileurl="file://$PROJECT_DIR$/blogSystempersistence/blogSystemPersistenceredis.iml" filepath="$PROJECT_DIR$/blogSystempersistence/blogSystemPersistenceredis.iml" />
+      <module fileurl="file://C:\Users\BRL\BlogSystemBasic\blogSystempersistence\blogSystemPersistenceredis.iml" filepath="C:\Users\BRL\BlogSystemBasic\blogSystempersistence\blogSystemPersistenceredis.iml" />
       <module fileurl="file://$PROJECT_DIR$/blogSystempersistence/blogSystempersistence.iml" filepath="$PROJECT_DIR$/blogSystempersistence/blogSystempersistence.iml" />
-      <module fileurl="file://$PROJECT_DIR$/blogSystempersistence/blogSystemredis.iml" filepath="$PROJECT_DIR$/blogSystempersistence/blogSystemredis.iml" />
+      <module fileurl="file://C:\Users\BRL\BlogSystemBasic\blogSystempersistence\blogSystemredis.iml" filepath="C:\Users\BRL\BlogSystemBasic\blogSystempersistence\blogSystemredis.iml" />
     </modules>
   </component>
 </project>
