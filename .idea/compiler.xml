@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="blogSystem-persistence-mysql" />
+        <module name="blogSystem-persistence-redis" />
+        <module name="blogSystem-registerCenter" />
+        <module name="blogSystemCommon" />
+        <module name="blogSystemConfig" />
+        <module name="blogSystemGateWay" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="blogSystem-db" target="1.8" />
+      <module name="blogSystem-persistence-mysql" target="1.8" />
+      <module name="blogSystem-persistence-redis" target="1.8" />
+      <module name="blogSystem-registerCenter" target="1.8" />
+      <module name="BlogSystemBasic" target="1.8" />
+      <module name="blogSystemCommon" target="1.8" />
+      <module name="blogSystemConfig" target="1.8" />
+      <module name="blogSystemGateWay" target="1.8" />
+      <module name="blogSystempersistence" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

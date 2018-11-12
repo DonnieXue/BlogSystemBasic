@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>BlogSystemBasic</artifactId>
+        <groupId>com.donnie.system</groupId>
+        <version>1.0</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>blogSystem-persistence</artifactId>
+    <version>${blogSystem.version}</version>
+    <modules>
+        <module>blogSystem-persistence-redis</module>
+        <module>blogSystem-persistence-mysql</module>
+    </modules>
+    <packaging>pom</packaging>
+
+    <dependencies>
+        <dependency>
+            <groupId>com.donnie.system</groupId>
+            <artifactId>blogSystemCommon</artifactId>
+            <version>${blogSystem.version}</version>
+        </dependency>
+    </dependencies>
+</project>

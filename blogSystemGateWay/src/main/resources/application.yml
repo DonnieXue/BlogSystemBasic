@@ -1,0 +1,24 @@
+server:
+  port: 9001
+spring:
+  application:
+    name: blogSystem-gateway
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes:
+         - id: 163
+           uri: http://www.163.com
+           predicates:
+           - Path=/163/**
+eureka:
+  client:
+    service-url:
+       defaultZone: http://localhost:9000/eureka
+
+feign:
+  hystrix:
+    enabled: true
+

@@ -1,0 +1,21 @@
+server:
+  port: 5000
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      label: master
+      server:
+        git:
+          uri: git@github.com:DonnieXue/BlogSystemBasic.git
+          username:
+          password:
+          search-paths: blogSystemConfigRepo
+eureka:
+  client:
+    serviceUrl:
+       defaultZone: http://localhost:9000/eureka
+
+
+

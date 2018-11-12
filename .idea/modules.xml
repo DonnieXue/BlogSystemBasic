@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BlogSystemBasic.iml" filepath="$PROJECT_DIR$/BlogSystemBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blogSystempersistence/blogSystem-persistence-mysql/blogSystem-persistence-mysql.iml" filepath="$PROJECT_DIR$/blogSystempersistence/blogSystem-persistence-mysql/blogSystem-persistence-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blogSystempersistence/blogSystem-persistence-redis/blogSystem-persistence-redis.iml" filepath="$PROJECT_DIR$/blogSystempersistence/blogSystem-persistence-redis/blogSystem-persistence-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blogSystemregisterCenter/blogSystem-registerCenter.iml" filepath="$PROJECT_DIR$/blogSystemregisterCenter/blogSystem-registerCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blogSystemCommon/blogSystemCommon.iml" filepath="$PROJECT_DIR$/blogSystemCommon/blogSystemCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blogSystemConfig/blogSystemConfig.iml" filepath="$PROJECT_DIR$/blogSystemConfig/blogSystemConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blogSystemGateWay/blogSystemGateWay.iml" filepath="$PROJECT_DIR$/blogSystemGateWay/blogSystemGateWay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blogSystempersistence/blogSystemPersistenceredis.iml" filepath="$PROJECT_DIR$/blogSystempersistence/blogSystemPersistenceredis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blogSystempersistence/blogSystempersistence.iml" filepath="$PROJECT_DIR$/blogSystempersistence/blogSystempersistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blogSystempersistence/blogSystemredis.iml" filepath="$PROJECT_DIR$/blogSystempersistence/blogSystemredis.iml" />
+    </modules>
+  </component>
+</project>
