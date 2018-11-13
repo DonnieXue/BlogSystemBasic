@@ -12,6 +12,7 @@
         <module name="blogSystemCommon" />
         <module name="blogSystemConfig" />
         <module name="blogSystemGateWay" />
+        <module name="blogSystemUserCenter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +25,7 @@
       <module name="blogSystemConfig" target="1.8" />
       <module name="blogSystemGateWay" target="1.8" />
       <module name="blogSystempersistence" target="1.8" />
+      <module name="blogSystemUserCenter" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -14,15 +14,16 @@
         <module>blogSystemConfig</module>
         <module>blogSystemCommon</module>
         <module>blogSystempersistence</module>
+        <module>blogSystemUserCenter</module>
     </modules>
 
-    <repositories>
-        <!--阿里云仓库-->
+    <!--<repositories>
+        &lt;!&ndash;阿里云仓库&ndash;&gt;
         <repository>
             <id>aliyun</id>
             <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
         </repository>
-    </repositories>
+    </repositories>-->
 
     <parent>
         <groupId>org.springframework.boot</groupId>
